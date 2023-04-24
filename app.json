@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "invest-app",
+    "slug": "invest-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
